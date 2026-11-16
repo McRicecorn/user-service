@@ -1,3 +1,0 @@
-databaseChangeLog:
-  - include: /src/main/resources/db/changelog/001-create-tables.yaml
-  - include: /src/main/resources/db/changelog/002-create-indexes.yaml
